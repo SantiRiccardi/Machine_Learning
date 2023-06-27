@@ -131,3 +131,5 @@ dmypy.json
 # Carpetas
 Prof/
 test/
+data/
+AutoML_2/
